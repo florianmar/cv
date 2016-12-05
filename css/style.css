@@ -1,0 +1,41 @@
+body{
+  font-family: 'Passion One', cursive;
+  background: url('http://www.kibubu.be/wp-content/uploads/2015/05/background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
+.titre{
+  text-align: center;
+  margin-top: 12rem;
+  margin-left: 20rem;
+  font-size: 16rem;
+  float:left;
+  -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+    animation-duration: 2s;
+
+}
+h2{
+  color: white;
+}
+
+
+img{
+      margin-top: 21rem;
+      width: 12rem;
+
+
+}
+nav{
+  display: flex;
+  flex-direction: column;
+  float:right;
+
+}
+
+nav a{
+  margin-top: 28rem;
+  font-size: 5rem;
+}
